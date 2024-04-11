@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Old English Text MT;
+    src: url(OETM.ttf);
+}
+body{
+    font-family: Arial;
+}
+br{
+    display: block;
+    content: "";
+    margin-top: -15px;
+}
+#ph{
+    font-family: Arial;
+    
+    font-size: 14px;
+}
+#uc{
+    font-family:"Old English Text MT", serif ;
+    font-size: 25px;
+    color: green;
+
+}
+#pnc{
+    font-size: 20px;
+    font-family: "Balthazar", serif;
+}
+#dept{
+    font-family:  Calibri;
+    font-size: 16px;
+}
+#address{
+    font-size: 12px;
+}
+
+.schoolName{
+    text-align: center;
+}
+.csslogo{
+    height: 100px;
+    width: 100px;
+    right: 100px;
+    position: absolute;
+}
+.pnclogo{
+    height: 100px;
+    width: 100px;
+    left: 100px;
+    position: absolute;
+}
+
+.logo{
+    height: auto;
+    width: 75px;
+    
+    
+}
+
+#big{
+    font-size: 40px;
+}
